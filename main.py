@@ -1,7 +1,3 @@
-import openpyxl
-import os
-from openpyxl import Workbook
-
 from export_excel.export_excel import *
 from test_ping.test_ping import *
 
@@ -19,7 +15,7 @@ def main():
     export_excel = ExportExcel(fecha, ip_public, upload, download, ping)
 
     export_excel.insertar_datos()
-    
+
     print(data)
 
 
