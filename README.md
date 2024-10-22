@@ -18,7 +18,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="git@github.com:Taoista/get_status_internet.git">
     <img src="https://i.ibb.co/Yj47wtT/rxezjyf4ojx41.webp" alt="Logo">
   </a>
   
